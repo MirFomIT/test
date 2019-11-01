@@ -1,0 +1,6 @@
+.field-card-phone{
+    display: inline-block;
+}
+#card-numberMask, #card-phoneMask, #user-birthdayMask{
+    display: none;!important;
+}
